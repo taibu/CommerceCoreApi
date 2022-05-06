@@ -2,9 +2,10 @@
 {
     public class ProductAttributes
     {
+        public long Id { get; set; }
         public long ProductId { get; set; }
-        public List<string>? Color { get; set; }
-        public List<string>? Sizes { get; set; }
+        public List<string>? Color;
+        public List<string>? Sizes;
         public List<ProductReview>? Reviews { get; set; }
         public string? Model { get; set; }
         public string? Material { get; set; }

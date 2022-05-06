@@ -1,5 +1,6 @@
 ﻿namespace CommerceCoreApi.Models
 {
+   
     public class Response
     {
         private string statusCode;
