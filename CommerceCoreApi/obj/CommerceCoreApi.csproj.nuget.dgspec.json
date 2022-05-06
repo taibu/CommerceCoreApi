@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET CORE REST APIS\\CommerceCoreApi\\CommerceCoreApi.csproj": {}
+    "D:\\DOTNET WEB APIS\\CommerceCoreApi\\CommerceCoreApi\\CommerceCoreApi.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET CORE REST APIS\\CommerceCoreApi\\CommerceCoreApi.csproj": {
+    "D:\\DOTNET WEB APIS\\CommerceCoreApi\\CommerceCoreApi\\CommerceCoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET CORE REST APIS\\CommerceCoreApi\\CommerceCoreApi.csproj",
+        "projectUniqueName": "D:\\DOTNET WEB APIS\\CommerceCoreApi\\CommerceCoreApi\\CommerceCoreApi.csproj",
         "projectName": "CommerceCoreApi",
-        "projectPath": "D:\\DOTNET CORE REST APIS\\CommerceCoreApi\\CommerceCoreApi.csproj",
-        "packagesPath": "C:\\Users\\Taibu\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET CORE REST APIS\\CommerceCoreApi\\obj\\",
+        "projectPath": "D:\\DOTNET WEB APIS\\CommerceCoreApi\\CommerceCoreApi\\CommerceCoreApi.csproj",
+        "packagesPath": "C:\\Users\\TECHLAB\\.nuget\\packages\\",
+        "outputPath": "D:\\DOTNET WEB APIS\\CommerceCoreApi\\CommerceCoreApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Taibu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TECHLAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
